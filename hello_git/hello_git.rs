@@ -1,4 +1,4 @@
 fn main(){
     println!("hello, git");
-    let mut x = B6;
+    let mut x = 6;
 }
